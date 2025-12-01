@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "冬の魔法",
+  "base_artist": "Aogumo",
+  "createdAt": "2025-12-01T01:17:52.806737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬の魔法",
+      "artist": "舟津真翔",
+      "has_synced": true,
+      "path": "select/01_冬の魔法_舟津真翔.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬の魔法",
+      "artist": "ベイビーレイズ",
+      "has_synced": false,
+      "path": "select/02_冬の魔法_ベイビーレイズ.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "冬の魔法",
+      "artist": "Aogumo",
+      "has_synced": false,
+      "path": "select/pl_冬の魔法_Aogumo.txt"
+    }
+  ]
+}
